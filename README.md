@@ -1,7 +1,7 @@
 <br>
 SVG Icon Store
 <br><br>
-SVG Icon Store allows for the dynamic store all your projects SVG icons in one location to aid in maintainability. 
+SVG Icon Store allows for the dynamic store of all your projects SVG icons in one location to aid in maintainability. 
 
 ## Overview
 
