@@ -1,0 +1,37 @@
+.iconDiv {
+	background-color: var(--black);
+	justify-content: center;
+	border-radius: 50rem;
+	align-items: center;
+	height: 1.5rem;
+	display: flex;
+	width: 1.5rem;
+	padding: 1rem;
+	margin: 1rem;
+}
+	.icon {
+		stroke: var(--white);
+		fill: var(--white);
+		height: 1rem;	
+		width: 1rem;
+	}
+
+@media (max-device-width: 760px) {
+	.iconDiv {
+		background-color: var(--black);
+		justify-content: center;
+		border-radius: 50rem;
+		align-items: center;
+		height: 3rem;
+		display: flex;
+		width: 3rem;
+		padding: 2rem;
+		margin: 2rem;
+	}
+		.icon {
+			stroke: var(--white);
+			fill: var(--white);
+			height: 2rem;	
+			width: 2rem;
+		}
+}
